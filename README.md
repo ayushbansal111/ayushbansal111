@@ -27,6 +27,7 @@
  </a> 
 <br />
 <br />
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 # TechStack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px>
 
@@ -38,17 +39,15 @@
 <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS" />
 <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJs" />
+<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextJs" />
 <img src="https://img.shields.io/badge/Git-DA100B?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> 
-<img src="https://img.shields.io/badge/Render-%231b1f24.svg?style=for-the-badge&logo=render&logoColor=00C7B7" alt="Render" />
 <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
- <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit" />
-<img src="https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=JSON%20Web%20Tokens&logoColor=white" alt="JWT" />
- <img src="https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white" alt="MUI" />
-  <img src="https://img.shields.io/badge/Stripe-%231A1A1A.svg?style=for-the-badge&logo=stripe&logoColor=%2369A2E6" alt="Stripe" />
-  <img src="https://img.shields.io/badge/Google%20Auth-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white" alt="Google Auth" />
-  <img src="https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MYSQL" />
-  <img src="https://img.shields.io/badge/Cookie-%23FFD500.svg?style=for-the-badge&logo=cookie&logoColor=black" alt="Cookie" />
-
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit" />
+<img src="https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MYSQL" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000" alt="Tailwind" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+<img src="https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MYSQL" />
+  
 </p>
 
 
