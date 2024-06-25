@@ -6,6 +6,7 @@
 <p align="center" display="block">
   <img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=5001&vCenter=true&center=true&font=Fira+Code&pause=1000&color=FF6A00&width=700&lines=This+is+Ayush+Bansal+👨‍💻;+Full+Stack+Developer;🔭+Currently+working+on+MERN+stack;🌱+Currently+learning+DSA" alt="Typing SVG" />
 </p>
+
 <img align="right" alt="Coding" width="370" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
@@ -56,35 +57,4 @@
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-
-
-
-
-
 </p>
-
-
-## 🔥 Streak Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=priyanshu1101&theme=elegant&sideNums=FFFFFF&currStreakNum=FFFFFF&fire=FF6A00&ring=FF6A00&background=000000&border=FF6A00&currStreakLabel=FFFFFF&sideLabels=FFFFFF&stroke=FFFF00&dates=FFFF00&border_radius=4.7&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-## GitHub Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;" />
-
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=priyanshu1101&show_icons=true&theme=codeSTACKr&border_color=FF6A00&bg_color=000" alt="swastik github stats" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu1101&show_icons=true&theme=codeSTACKr&layout=compact&border_color=FF6A00&bg_color=000" alt="languages used" /></p>
-
-<br />
-
-<p><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyanshu1101&theme=2077" alt="graph" /></p>
-
-## My Favourite Projects
-
-<a href="https://github.com/priyanshu1101/E_Commerce_Website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=priyanshu1101&repo=E_Commerce_Website&show_icons=true&theme=codeSTACKr&show_owner=true&border_color=ff6a00" />
-</a>
-<a href="https://github.com/priyanshu1101/Social-Media-Application-Mern-Stack-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=priyanshu1101&repo=Social-Media-Application-Mern-Stack-&show_icons=true&theme=codeSTACKr&show_owner=true&border_color=ff6a00" />
-</a>
-
