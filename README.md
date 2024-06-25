@@ -6,6 +6,8 @@
 <p align="center" display="block">
   <img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=5001&vCenter=true&center=true&font=Fira+Code&pause=1000&color=FF6A00&width=700&lines=This+is+Ayush+Bansal+👨‍💻;+Full+Stack+Developer;🔭+Currently+working+on+MERN+stack;🌱+Currently+learning+DSA" alt="Typing SVG" />
 </p>
+<img align="right" alt="Coding" width="370" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br><br>
 
 ### About Me
 
@@ -18,7 +20,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<a href="mailto:ayushbansal162@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-DA100B?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> 
+<a href="mailto:ayushbansal162@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-DA100B?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" align="left"/></a> 
 <a href="www.linkedin.com/in/ayushbansal111" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-223189?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" align="left"/></a>
  <a href="https://instagram.com/ayush_bansal13" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
