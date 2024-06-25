@@ -11,7 +11,10 @@
 
 - 📚 Computer Science Student at <a href="http://nsut.ac.in/">Netaji Subhas University of Technology(NSUT)</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 - 👩‍💻 Currently diving into the MERN stack (MongoDB, Express.js, React, and Node.js)
-- 🌱 Love Exploring New Technologies
+- 🔭 Looking to collaborate on Web development Projects.
+- 🌱 Love Exploring New Technologies.
+
+  😃 Feel free to check out my repositories and Contact me.
 
 
 <h3 align="left">Connect with me:</h3>
