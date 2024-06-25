@@ -4,7 +4,7 @@
 </h2>
 
 <p align="center" display="block">
-  <img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=5001&vCenter=true&center=true&font=Fira+Code&pause=1000&color=FF6A00&width=700&lines=This+is+Ayush+Bansal+👨‍💻;+Full+Stack+Developer;🔭+Currently+working+on+MERN+stack;🌱+Currently+learning+DSA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=5001&vCenter=true&center=true&font=Fira+Code&pause=1000&color=FF6A00&width=700&lines=👨‍💻+Full+Stack+Developer;🔭+Currently+working+on+MERN+stack;🌱+Currently+learning+DSA" alt="Typing SVG" />
 </p>
 
 <img align="right" alt="Coding" width="370" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
@@ -13,7 +13,7 @@
 ### About Me
 
 - 📚 Computer Science Student at <a href="http://nsut.ac.in/">Netaji Subhas University of Technology(NSUT)</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-- 👩‍💻 Currently diving into the MERN stack (MongoDB, Express.js, React, and Node.js)
+- 👨‍💻 Currently diving into the MERN stack (MongoDB, Express.js, React, and Node.js)
 - 🔭 Looking to collaborate on Web development Projects.
 - 🌱 Love Exploring New Technologies.
 
