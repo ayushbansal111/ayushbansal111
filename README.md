@@ -16,6 +16,7 @@
 - 👨‍💻 Currently diving into the MERN stack (MongoDB, Express.js, React, and Node.js)
 - 🔭 Looking to collaborate on Web development Projects.
 - 🌱 Love Exploring New Technologies.
+- ⚡ Fun fact I love Leading Projects 💖
 
   😃 Feel free to check out my repositories and Contact me.
 
